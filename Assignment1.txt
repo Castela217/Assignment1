@@ -1,0 +1,8 @@
+1. Fonts (color, style, shape)
+2. links
+3. Images
+4. Headers
+5. Background
+6. Margins/borders/padding/content box
+7. Lists
+8. forms
